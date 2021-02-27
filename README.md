@@ -8,17 +8,9 @@ Since I fell in love and got to know this area of technology more, I never saw t
 I am a very optimistic person with my plans and goals, and especially with the goals that I set myself, and the main one is always seeking to improve, to be better day after day, because that is my essence and what defines me. I like to keep myself informed and updated, and I always try to learn about what I don't know, and go even deeper into the things I already know. I love to stimulate my ability to solve problems and my creativity.
 </p>
 
----
+ ---
 
    <div align="center">
-
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
-
-   </div>
-
-   ---
-
-<div align="center">
 
 ![Felipe Sales's github stats](https://github-readme-stats.vercel.app/api?username=felipecastrosales&show_icons=true&theme=dark)
 
@@ -26,4 +18,10 @@ I am a very optimistic person with my plans and goals, and especially with the g
 
    </div>
 
+---
 
+   <div align="center">
+
+   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales/)](https://www.linkedin.com/in/felipecastrosales/)
+
+   </div>
