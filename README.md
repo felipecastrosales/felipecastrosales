@@ -3,10 +3,9 @@
 <h4 align="center">How are you? I hope you are well, welcome to my profile. 😊😄</h4>
 
 <p align="center">
-I am passionate, I love and live programming, and I always seek to improve and intensify my learning, always challenging myself and learning new things.<br>
-The programming made me see that the world is not the same as before I met it, and I experience this with every line of code made.<br>
-I am very optimistic with my goals, dreams and especially with the goals that I trace to my inner self. The main one is always to fight my biggest enemy, yesterday's self. I try to be better day after day, in every way, in the professional, personal, social, and my family! This is my essence and what defines me.<br>
-I always keep myself informed and updated, and I always try to learn about what I don't know, and of course, to go even deeper into the things I already know. I love to stimulate my ability to solve problems and my creativity.
+I'm passionate about programming and development, and I'm always wanting to help people reach the next level, to be better always more. Besides being part of my essence, I try to pass it on to people, the feeling of progress and consistency captivates me.<br>
+I want to be the best I can, giving my best and constantly challenging myself, and that's when I feel comfortable, because I know it's an opportunity to evolve. I have clear goals, and goals that I set with my inner self. The main thing is to be better than I was yesterday, this is my biggest enemy.<br>
+The programming and experience of being a teaching assistant changed my thinking a lot, besides, of course, making me learn more. I know I can and I offer a lot to people, especially the opportunity to make them grow, be better and change their lives. This move me.
 </p>
 
  ---
