@@ -19,6 +19,8 @@
 - 🏆 "A Forja é diária.".
  
 - 📄 Documenting the entire journey.
+ 
+- 🫡 Deep Code Way.
 
 </p>
 
