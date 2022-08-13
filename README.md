@@ -8,7 +8,7 @@
 
 - 👨‍💻 Flutter Developer & Instructor focused on helping people go to the next level.
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat).
+- 🔭 I’m currently working at [SuaMusica](https://github.com/SuaMusica).
  
 - 💬 Ask me about everything, I always enjoy helping people.
 
