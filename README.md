@@ -50,6 +50,13 @@
    <div align="center">
 
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
-   
+
    </div>
 
+---
+    
+   <div align="center">
+
+![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=12175856820)
+
+   </div>
