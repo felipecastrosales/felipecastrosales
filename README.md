@@ -14,13 +14,8 @@
 
 - 👊 Driven by concrete goals and well-defined goals. I will make it happen.
 
-- 🔥 I like to play sports.
+- [![Website Badge](https://img.shields.io/badge/-felipecastrosales.com-4361EE?style=flat&logo=Google-Chrome&logoColor=white&link=https://felipecastrosales.com/)](https://felipecastrosales.com/)
 
-- 🏆 "A Forja é diária.".
- 
-- 📄 Documenting the entire journey.
- 
-- 🫡 Deep Code Way.
 
 </p>
 
@@ -33,23 +28,6 @@
   <br>
   <img height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=felipecastrosales&show_icons=true&locale=en&layout=compact&theme=dark&line_height=1"/>
   <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecastrosales&theme=monokai"/>
-
-   </div>
-
----
-
-   <div align="center">
- 
-   [![Website Badge](https://img.shields.io/badge/-felipecastrosales.com-4361EE?style=flat&logo=Google-Chrome&logoColor=white&link=https://felipecastrosales.com/)](https://felipecastrosales.com/)
-   [![Linkedin Badge](https://img.shields.io/badge/-Felipe%20Sales-4361EE?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipecastrosales)](https://www.linkedin.com/in/felipecastrosales) 
-   [![Gmail Badge](https://img.shields.io/badge/-soufeliposales@gmail.com-4361EE?style=flat-square&logo=Gmail&logoColor=white&link=mailto:soufeliposales@gmail.com)](mailto:soufeliposales@gmail.com)
-   [![Stack OverFlow Badge](https://img.shields.io/badge/Stack_Overflow-4361EE?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/13096514/felipe-sales)](https://stackoverflow.com/users/13096514/felipe-sales)
- 
-   </div>
-
-   <div align="center">
-
-[![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
 
    </div>
 
