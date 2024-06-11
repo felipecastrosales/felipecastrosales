@@ -7,15 +7,10 @@
 <p>
 
 - 👨‍💻 Flutter Developer & Instructor focused on helping people go to the next level.
-
-- 🔭 I’m currently working at [SuaMusica](https://github.com/SuaMusica).
  
 - 💬 Ask me about everything, I always enjoy helping people.
 
 - 👊 Driven by concrete goals and well-defined goals. I will make it happen.
-
-- [![Website Badge](https://img.shields.io/badge/-felipecastrosales.com-4361EE?style=flat&logo=Google-Chrome&logoColor=white&link=https://felipecastrosales.com/)](https://felipecastrosales.com/)
-
 
 </p>
 
