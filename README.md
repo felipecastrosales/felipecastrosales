@@ -25,11 +25,3 @@
   <img height="120em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felipecastrosales&theme=monokai"/>
 
    </div>
-
----
-    
-   <div align="center">
-
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=12175856820)
-
-   </div>
