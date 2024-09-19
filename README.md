@@ -12,6 +12,9 @@
 
 - 👊 Driven by concrete goals and well-defined goals. I will make it happen.
 
+- 💸 **Support my journey:** If you'd like to contribute, you can fund me via PIX using the key: `soufeliposales@gmail.com`. Alternatively, you can support me through PayPal with these links: [Option 1](https://www.paypal.com/invoice/p/#8L48F2WAWBMV7CT6) or [Option 2](https://www.paypal.com/invoice/p/#8YGH72E4VPURHUA5). Every contribution helps me continue creating, teaching, and growing!
+
+
 </p>
 
  ---
